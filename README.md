@@ -1,5 +1,4 @@
-### Hi there 👋
-- 😴 I'm Sleeping
+### Hi there 👋, 😴 I'm Sleeping
 
 [![moefaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=moefaq)](https://github.com/anuraghazra/github-readme-stats)  
 
